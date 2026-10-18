@@ -67,4 +67,7 @@ English, Urdu, Hindi, Marathi
 - [Rubric Builder and Scorer](https://github.com/SameeraFarogh/rubric-builder) ([live app](https://sameerafarogh.github.io/rubric-builder/)): build a weighted rubric, score AI responses against it and export the results. Critical criteria can fail a response on their own.
 - [Fact-Check Log](https://github.com/SameeraFarogh/fact-check-log) ([live app](https://sameerafarogh.github.io/fact-check-log/)): log the claims a model makes, the source checked and a verdict, with an unsupported-rate summary.
 
-Both are single-file browser tools. Nothing you enter leaves your device.
+- [Bluff Dice](https://github.com/SameeraFarogh/bluff-dice) ([play](https://sameerafarogh.github.io/bluff-dice/)): a hidden-dice bluffing game for 2 to 6 players, joined with a room code.
+- [Spot the Hallucination](https://github.com/SameeraFarogh/spot-the-hallucination) ([play](https://sameerafarogh.github.io/spot-the-hallucination/)): a fact-or-fabrication party game for 2 to 8 players, joined with a room code.
+
+Each project is a single-file browser app in its own repository. The two tools keep everything on your device. The games connect players directly to the host, with no account needed.
