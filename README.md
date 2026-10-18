@@ -16,6 +16,15 @@ Based in Malegaon, Maharashtra, India.
 
 ---
 
+## Projects
+
+- [Rubric Builder and Scorer](https://github.com/SameeraFarogh/rubric-builder) ([live app](https://sameerafarogh.github.io/rubric-builder/)): build a weighted rubric, score AI responses against it and export the results. Critical criteria can fail a response on their own.
+- [Fact-Check Log](https://github.com/SameeraFarogh/fact-check-log) ([live app](https://sameerafarogh.github.io/fact-check-log/)): log the claims a model makes, the source checked and a verdict, with an unsupported-rate summary.
+
+Both are single-file browser tools. Nothing you enter leaves your device.
+
+---
+
 ## Experience
 
 **Senior Software Engineer, Promatics Technologies** (January 2017 to March 2025)
